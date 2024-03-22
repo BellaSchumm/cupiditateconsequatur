@@ -1,0 +1,19 @@
+{
+  "name": "cupiditateconsequatur",
+  "version": "1.0.0",
+  "description": "A simple npm package to help you Promisify your Web3 calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BellaSchumm/cupiditateconsequatur.git"
+  },
+  "keywords": [
+    "nihil",
+    "js"
+  ],
+  "author": "EvieMetz",
+  "license": "ISC"
+}
